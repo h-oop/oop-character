@@ -1,4 +1,4 @@
-#
+#character class prog
 
 class Character:
     # Constructor
